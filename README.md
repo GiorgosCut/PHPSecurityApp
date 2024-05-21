@@ -1,2 +1,11 @@
-# PHPSecurityApp
-A PHP backend application focused on cybersecurity, featuring secure user authentication, evaluation management, and email functionalities using PHPMailer and Google reCAPTCHA.
+**Features**
+
+Secure user authentication
+User registration and login
+Two-factor authentication (2FA)
+Password recovery with security questions
+Google reCAPTCHA integration
+Email notifications using PHPMailer
+Evaluation management
+Administrative evaluation controls
+Session timeout handling
